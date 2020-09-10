@@ -1,0 +1,147 @@
+.body {
+    font-family:'Merriweather', serif;
+}
+
+p {
+line-height: 2;
+}
+
+hr {
+    border: 6px dotted cornflowerblue;
+    border-bottom: none;
+    width: 6pc;
+}
+.container1 {
+    text-align: center;
+    background-color: #e4f9f5;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px; top: 50px
+}
+
+.bottom-cloud {
+    position: absolute;
+    bottom: 250px;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 60px;
+    font-weight: 3000;
+    color: lightseagreen;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: 2500;
+    color: lightseagreen;
+}
+
+h3 {
+    font-size: 1.5rem;
+    color: lightseagreen;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.container2 {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.profile {
+    width: 30%;
+    margin: auto;
+    padding: 50px 10px;
+}
+
+.MY {
+    margin-top: 50px;
+}
+
+.skills {
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    padding-bottom: 50px;
+}
+
+.skills  .skill-row:first-of-type {
+    margin-bottom: 90px;
+}
+
+.webman {
+    width: 200px;
+    float: left;
+    margin-right: 30px;
+}
+
+.violin {
+    width: 200px;
+    float: right;
+    margin-left: 30px;
+}
+
+.container3 {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding-top: 5pc;
+    padding-bottom: 5pc;
+}
+
+.button {
+    color: white;
+    background-color: #11cdd4;
+    text-decoration: none;
+    padding: 5px 10px;
+    margin: 50px;
+    border-radius: 10px;
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.button:hover {
+    color: teal;
+    background-color: #eee;
+}
+
+.button2 {
+    color: white;
+    background-color: #11cdd4;
+    text-decoration: none;
+    padding: 5px 10px;
+    margin: 50px;
+    border-radius: 10px;
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.button2:hover {
+background-color: #eee
+}
+
+.container4 {
+    text-align: center;
+    padding: 50px 0px 20px;
+    background-color: #66bfbf;
+}
+
+.facebook {
+    text-decoration: none;
+    color: #11999e;
+}
+
+.facebook:hover {
+    color: #eee;
+}
+
+.all-right {
+    color: #eee;
+}
